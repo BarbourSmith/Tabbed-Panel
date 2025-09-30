@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Tabbed Panel",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "294c897c-cd4a-43e9-8736-2d8453bcfb7b",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
